@@ -1,4 +1,4 @@
-### Oi sou o Gabriel Garcia
+## Oi sou o Gabriel Garcia
 
 <div>
   <a href="https://github.com/GabrielAnjos011">
