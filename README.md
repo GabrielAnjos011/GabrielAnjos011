@@ -1,6 +1,6 @@
 ## Oi sou o Gabriel Garcia
 
-<div display="flex">
+<div display="flex" gap="18px">
   <a href="https://github.com/GabrielAnjos011">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielAnjos011&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAnjos011&layout=compact&langs_count=16&theme=dark"/>
